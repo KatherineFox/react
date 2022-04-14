@@ -1,5 +1,5 @@
 import React from "react";
-import CategoriesFirstRow from "./CategoriesFirstRow/CategoriesFirstRow";
+import CategoriesFirstRow from "./CategoreisFirstRow/CategoriesFirstRow";
 import CategoriesSecondRow from "./CategoriesSecondRow/CategoriesSecondRow";
 import "./CategoriesTable.css";
 
