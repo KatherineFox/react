@@ -1,0 +1,22 @@
+h5 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: rgb(107, 125, 59);
+}
+.info {
+    margin-top: 20px;
+    text-align: center;
+}
+.main-info {
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 20px;
+    color: rgb(107, 125, 59);
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 30px;
+}
